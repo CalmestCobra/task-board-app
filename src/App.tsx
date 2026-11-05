@@ -258,7 +258,7 @@ export default function App() {
       <header className="mx-auto max-w-7xl mb-6 flex flex-col md:flex-row md:items-center md:justify-between gap-4 border-b border-slate-800 pb-6">
         <div>
           <div className="flex items-center gap-3">
-            <h1 className="text-3xl font-extrabold tracking-tight text-white">Kanban Workspace</h1>
+            <h1 className="text-3xl font-extrabold tracking-tight text-white">Task Workspace</h1>
             <span className="rounded-full bg-emerald-500/10 px-2.5 py-0.5 text-xs font-semibold text-emerald-400 border border-emerald-500/20">
               Live DB
             </span>
